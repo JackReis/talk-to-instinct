@@ -92,4 +92,4 @@ Variants for other assistants, platforms (Android Tasker, macOS), and endpoints 
 
 ## License
 
-MIT. Add a LICENSE file when you publish.
+MIT licensed. See the included [LICENSE](LICENSE) file.
