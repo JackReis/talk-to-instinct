@@ -74,7 +74,7 @@ With that, one shared shortcut works for everyone and carries no one's number or
 
 Signed `.shortcut` files can only be exported from a device. They cannot be authored from text or built in CI. So this repo documents the build, and the maintainer adds an iCloud share link here after building it on an iPhone:
 
-> Shortcut link: https://www.icloud.com/shortcuts/f40da49ba5a2472781cb5f939b94bd83
+> Shortcut link: https://www.icloud.com/shortcuts/ecd2cff174a74eba8c5b0fdde83174b4
 
 Before exporting, check the Send Message recipient and any tokens. Use import questions so neither ships in the file.
 
